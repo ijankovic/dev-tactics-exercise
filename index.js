@@ -1,1 +1,1 @@
-console.log("Hello word from index.js");
+console.log("Hello word from index.js + update");
