@@ -1,0 +1,25 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "Hello word in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test specified yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ijankovic/task1.git"
+  },
+  "author": "Ines Jankovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ijankovic/task1/issues"
+  },
+  "homepage": "https://github.com/ijankovic/task1#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mocha": "^10.7.3",
+    "should": "^13.2.3",
+    "supertest": "^7.0.0"
+  }
+}
