@@ -1,4 +1,4 @@
-# task1
+# Dev-tactics-exercise
 
 This is simple Hello World Node.js application that you can use for your Travis CI build exercise. 
 It includes a basic API endpoint and a unit test to ensure that the application behaves as expected.
