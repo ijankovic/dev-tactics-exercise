@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-  - 20
+  - 19
 script: 
   - echo "Starting build process..."
   - npm install 
